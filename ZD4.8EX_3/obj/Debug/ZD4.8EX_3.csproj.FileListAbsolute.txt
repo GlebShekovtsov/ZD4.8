@@ -1,0 +1,7 @@
+C:\Users\Gleb\source\repos\ZD4.8\ZD4.8EX_3\bin\Debug\ZD4.8EX_3.exe.config
+C:\Users\Gleb\source\repos\ZD4.8\ZD4.8EX_3\bin\Debug\ZD4.8EX_3.exe
+C:\Users\Gleb\source\repos\ZD4.8\ZD4.8EX_3\bin\Debug\ZD4.8EX_3.pdb
+C:\Users\Gleb\source\repos\ZD4.8\ZD4.8EX_3\obj\Debug\ZD4.8EX_3.csproj.AssemblyReference.cache
+C:\Users\Gleb\source\repos\ZD4.8\ZD4.8EX_3\obj\Debug\ZD4.8EX_3.csproj.CoreCompileInputs.cache
+C:\Users\Gleb\source\repos\ZD4.8\ZD4.8EX_3\obj\Debug\ZD4.8EX_3.exe
+C:\Users\Gleb\source\repos\ZD4.8\ZD4.8EX_3\obj\Debug\ZD4.8EX_3.pdb

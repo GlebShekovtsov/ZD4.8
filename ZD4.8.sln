@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZD4.8EX_1", "ZD4.8EX_1\ZD4.8EX_1.csproj", "{6393C17E-43DE-4DA3-B7AB-DE2CDE9FC5DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZD4.8EX_2", "ZD4.8EX_2\ZD4.8EX_2.csproj", "{82C3241C-1F0A-4516-A765-D73C351D9432}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZD4.8EX_3", "ZD4.8EX_3\ZD4.8EX_3.csproj", "{946A1D0F-B323-465D-A158-5782E7FA342D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6393C17E-43DE-4DA3-B7AB-DE2CDE9FC5DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6393C17E-43DE-4DA3-B7AB-DE2CDE9FC5DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6393C17E-43DE-4DA3-B7AB-DE2CDE9FC5DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6393C17E-43DE-4DA3-B7AB-DE2CDE9FC5DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82C3241C-1F0A-4516-A765-D73C351D9432}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82C3241C-1F0A-4516-A765-D73C351D9432}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82C3241C-1F0A-4516-A765-D73C351D9432}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82C3241C-1F0A-4516-A765-D73C351D9432}.Release|Any CPU.Build.0 = Release|Any CPU
+		{946A1D0F-B323-465D-A158-5782E7FA342D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{946A1D0F-B323-465D-A158-5782E7FA342D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{946A1D0F-B323-465D-A158-5782E7FA342D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{946A1D0F-B323-465D-A158-5782E7FA342D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4260BBE8-3276-432E-8C9C-87285D012D62}
+	EndGlobalSection
+EndGlobal
